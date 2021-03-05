@@ -1,4 +1,6 @@
 # Geocoding
+Note: This project was done as a part of Coursera specialization- Python for Everybody from University of Michigan.
+
 Using the Google Places API with a Database and
 Visualizing Data on Google Map
 
