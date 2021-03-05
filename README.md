@@ -125,4 +125,16 @@ myData = [
    ...
 ];
 
+## Output
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="output.png"></a>
+</p>
+
+## Visualization 
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="visualization.png"></a>
+</p>
